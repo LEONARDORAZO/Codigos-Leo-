@@ -1,9 +1,0 @@
-1 - faça um código que ao clicar em uma imagem ele muda a 
-imagem em si e ao clicar nela de novo volte para a primeira
-imagem.
-Feito
-
-2 - faça um código que ao clicar na página ele cria uma tag p nova
-mas se o numero de tags p criadas ultrapassar 5 a página deve voltar
-ao normal.
-Feito
