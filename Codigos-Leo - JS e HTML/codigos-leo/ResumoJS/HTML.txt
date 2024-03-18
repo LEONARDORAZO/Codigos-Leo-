@@ -1,0 +1,3 @@
+var upa = "oieefg" ; // String
+var ipa = 8.65 ; // Float
+var epa = true; // Boolean
